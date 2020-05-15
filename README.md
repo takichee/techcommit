@@ -1,2 +1,2 @@
 # techcommit
-FizzBuzz練習問題
+挑戦状
